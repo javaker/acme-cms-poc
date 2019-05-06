@@ -1,0 +1,7 @@
+<webscript>
+    <shortname>User Info Webscript</shortname>
+    <description>user info webscript</description>
+    <url>/sample/userinfo</url>
+    <authentication>user</authentication>
+    <format default="html"></format>
+</webscript>
